@@ -1,5 +1,1 @@
-#Inventory Log
-
--laptop
--monitor
--keyboard
+Updated Inventory Log
